@@ -16,7 +16,7 @@ import {
   SiBootstrap,
   SiMysql
 } from "react-icons/si";
-import ResumeFile from "../assets/Resume_kalyani_Deore.pdf";
+import ResumeFile from "../assets/Deore_kalyani_Resume.pdf";
 import { b9, edugst, emotion, geotag, igenius, kokan, pharmacy, star, wa, kalyani, aboutimg } from "../assets";
 
 const Home = () => {
